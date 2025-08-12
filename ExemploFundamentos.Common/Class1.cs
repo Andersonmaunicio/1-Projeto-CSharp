@@ -1,4 +1,4 @@
-﻿namespace ExemploFundamentos.Common;
+﻿namespace ExemploFundamentos.Common.obj;
 public class Class1
 {
 
