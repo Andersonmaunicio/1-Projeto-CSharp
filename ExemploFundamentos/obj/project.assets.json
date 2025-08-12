@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "c:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "c:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
+      "outputPath": "c:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lima\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "c:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "c:\\Projetos\\DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }
