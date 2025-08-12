@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExemploFundamentos.Models //NameSpace Organização de classes
+namespace ExemploFundamentos.PessoaCopia //NameSpace Organização de classes
 {
     public class Pessoa //Classe pessoa
     {
