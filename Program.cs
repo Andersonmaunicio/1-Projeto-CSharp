@@ -1,3 +1,3 @@
 ﻿using ExemploFundamentos.Models;
 
-Pessoa p = new Pessoa
+Pessoa p = new Pessoa();
