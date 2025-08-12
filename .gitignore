@@ -1,0 +1,16 @@
+# C# / .NET Core
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+## Nuget packages
+*.nupkg
+
+## Visual Studio Code settings
+.vscode/
+
+## Other
+.vs/
